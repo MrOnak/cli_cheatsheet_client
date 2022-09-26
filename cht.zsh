@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env zsh
 
 if [[ $# -eq 0 ]]; then
   echo "Usage:"
